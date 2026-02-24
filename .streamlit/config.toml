@@ -1,5 +1,7 @@
 [theme]
 
+base="light"
+
 # Primary corporate blue
 primaryColor="#2E6FCD"
 
