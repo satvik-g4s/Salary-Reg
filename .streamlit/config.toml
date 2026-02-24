@@ -1,0 +1,16 @@
+[theme]
+
+# Primary corporate blue
+primaryColor="#2E6FCD"
+
+# Light background
+backgroundColor="#F5F8FC"
+
+# Sidebar slightly darker
+secondaryBackgroundColor="#E8F0FE"
+
+# Text color
+textColor="#1F2937"
+
+# Clean corporate font
+font="sans serif"
